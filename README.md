@@ -1,2 +1,2 @@
-# My Resume]
-## Hosting my resume here on using github pages for sharing purposes.
+# My Resume
+Hosting my resume here on using github pages for sharing purposes.
